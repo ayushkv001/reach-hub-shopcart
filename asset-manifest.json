@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reach-hub-shopcart/static/css/main.1af40579.css",
-    "main.js": "/reach-hub-shopcart/static/js/main.5c4d9271.js",
+    "main.js": "/reach-hub-shopcart/static/js/main.248d4ec4.js",
     "static/media/offer.png": "/reach-hub-shopcart/static/media/offer.4621cfeafff3d3d1bc8b.png",
     "static/media/phone.svg": "/reach-hub-shopcart/static/media/phone.c4d68d1a3cf8844ecc12018471d981e8.svg",
     "index.html": "/reach-hub-shopcart/index.html",
@@ -12,10 +12,10 @@
     "static/media/arrow.svg": "/reach-hub-shopcart/static/media/arrow.14b92b05d02b45f0a153028e74c629fa.svg",
     "static/media/arrow2.svg": "/reach-hub-shopcart/static/media/arrow2.ad5c8c26578c0463bb399ec3f473cfeb.svg",
     "main.1af40579.css.map": "/reach-hub-shopcart/static/css/main.1af40579.css.map",
-    "main.5c4d9271.js.map": "/reach-hub-shopcart/static/js/main.5c4d9271.js.map"
+    "main.248d4ec4.js.map": "/reach-hub-shopcart/static/js/main.248d4ec4.js.map"
   },
   "entrypoints": [
     "static/css/main.1af40579.css",
-    "static/js/main.5c4d9271.js"
+    "static/js/main.248d4ec4.js"
   ]
 }
