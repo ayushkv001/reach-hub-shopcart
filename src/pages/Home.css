@@ -1,0 +1,28 @@
+.offer-image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.offer-image img{
+    width: 1110px;
+    height: 258.621px;
+}
+
+.stuff{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    width: 1111px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1130px;
+}

@@ -1,0 +1,32 @@
+.cardone img{
+    width: 90%;
+    max-height: 350px;
+
+}
+.cardone{
+    width: 275px;
+    border-radius: 5px;
+    background-color: #DDDDDD;
+    height: 475px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2px;
+    padding: 1px;
+}
+
+.btn{
+    border-radius: 10px;
+    background-color: white;
+}
+
+.btn-father{
+    width: 100%;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

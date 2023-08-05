@@ -1,0 +1,42 @@
+.dis2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 13px;
+    background-color: lightgrey;
+    padding: 2px;
+    margin-left: 3px;
+}
+.dis3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 13px;
+    border: 1px solid black;
+    padding: 2px;
+    margin-left: 2px;
+}
+
+.homebar-child1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.homebar{
+    width:1111px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.homebar-father{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
